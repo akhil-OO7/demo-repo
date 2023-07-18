@@ -6,6 +6,6 @@ Description
 
 Here I come.
 
-##Local Development
+## Local Development
 
-1. Open index.hmtl in your browser
+1. Open index.html in your browser
